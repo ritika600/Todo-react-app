@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.aboutdiv{
+  height: 500px;
+  width: 100%;
+ background-color: gray ;
+ 
+ 
+}
+.inner{
+  height: 400px;
+  width: 1000px;
+  background-color: black;
+  padding-top: 100px;
+  text-align: center;
+  position: absolute;
+  padding-left: 100px;
+  padding-right: 100px;
+  top: 100px;
+  left: 220px;
+  color: white;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}

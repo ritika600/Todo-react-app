@@ -1,10 +1,10 @@
 import React from 'react'
-
+import '../App.css';
 export const About = () => {
     return (
-        <div>
-            This is an about component 
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum corporis odio, nesciunt sed eveniet, nemo amet, dignissimos magnam itaque ipsam possimus. Inventore vitae, perferendis harum quas cupiditate adipisci repellendus tempore asperiores at consequatur quos?</p>
+        <div className="aboutdiv">
+             
+           <div className="inner"><p>ToDo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do, with the most important tasks at the top of the list, and the least important tasks at the bottom. It is helpful in planning our daily schedules.</p></div> 
         </div>
     )
 }
